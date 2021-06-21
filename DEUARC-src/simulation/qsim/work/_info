@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\Programlar\DEUARC_Mesut_Selim_Serbes_2017510100\simulation\qsim
+vDEUARC_Mesut_Selim_Serbes_2017510100
+Z1 IHVZ>]z=Q][0jWPlYTN?TA1
+Z2 VK;IQjlk]Y5FF_I7`K20MK2
+Z3 dD:\Programlar\DEUARC_Mesut_Selim_Serbes_2017510100\simulation\qsim
+Z4 w1589742819
+Z5 8DEUARC_Mesut_Selim_Serbes_2017510100.vo
+Z6 FDEUARC_Mesut_Selim_Serbes_2017510100.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+Z9 n@d@e@u@a@r@c_@mesut_@selim_@serbes_2017510100
+!i10b 1
+Z10 !s100 BH>FoMk:d4`D25=ILGcI[0
+!s85 0
+Z11 !s108 1589742823.291000
+Z12 !s107 DEUARC_Mesut_Selim_Serbes_2017510100.vo|
+Z13 !s90 -work|work|DEUARC_Mesut_Selim_Serbes_2017510100.vo|
+!s101 -O0
+vDEUARC_Mesut_Selim_Serbes_2017510100_vlg_check_tst
+!i10b 1
+!s100 ]V1^7Xl=emS4g@;8==ESa0
+IVkdYaJEBdg_4;2XYLc`B>0
+VfD_Dd<hog>QK?K:go87M?1
+R3
+Z14 w1589742817
+Z15 8DEUARC_Mesut_Selim_Serbes_2017510100.vt
+Z16 FDEUARC_Mesut_Selim_Serbes_2017510100.vt
+L0 59
+R7
+r1
+!s85 0
+31
+Z17 !s108 1589742823.644000
+Z18 !s107 DEUARC_Mesut_Selim_Serbes_2017510100.vt|
+Z19 !s90 -work|work|DEUARC_Mesut_Selim_Serbes_2017510100.vt|
+!s101 -O0
+R8
+n@d@e@u@a@r@c_@mesut_@selim_@serbes_2017510100_vlg_check_tst
+vDEUARC_Mesut_Selim_Serbes_2017510100_vlg_sample_tst
+!i10b 1
+!s100 AF[13MlzWOidcz<BV_H:G2
+I<^`o^WfWDY9kK5k_RH2Gg1
+VIO]DNC56zkJV[2Ri8]Wab3
+R3
+R14
+R15
+R16
+L0 29
+R7
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R8
+n@d@e@u@a@r@c_@mesut_@selim_@serbes_2017510100_vlg_sample_tst
+vDEUARC_Mesut_Selim_Serbes_2017510100_vlg_vec_tst
+!i10b 1
+!s100 5=1X?[6<CRVTkHd?L^b6e0
+IoiQBR9JzGoNRWa>FHH6V_0
+VM1kbVmPU@hzK_0Z9DoD?X2
+R3
+R14
+R15
+R16
+L0 207
+R7
+r1
+!s85 0
+31
+R17
+R18
+R19
+!s101 -O0
+R8
+n@d@e@u@a@r@c_@mesut_@selim_@serbes_2017510100_vlg_vec_tst

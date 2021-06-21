@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Wed May 20 17:16:19 2020
+Quartus II 64-Bit Version : 13.0.1 Build 232 06/12/2013 SP 1 SJ Web Edition
+Revision Name : DEUARC_Mesut_Selim_Serbes_2017510100
+Top-level Entity Name : DEUARC_Mesut_Selim_Serbes_2017510100
+Family : Cyclone III
+Total logic elements : 177
+    Total combinational functions : 150
+    Dedicated logic registers : 49
+Total registers : 49
+Total pins : 9
+Total virtual pins : 0
+Total memory bits : 496
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
